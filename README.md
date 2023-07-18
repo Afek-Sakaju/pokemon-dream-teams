@@ -12,12 +12,12 @@
 
 ---
 
-**Live demo:**</br>[pokemon-dream-teams](http://afektheminilearner.github.io/pokemon-dream-teams)
+**Live demo:**</br>[pokemon-dream-teams](http://Afek-Sakaju.github.io/pokemon-dream-teams)
 
 **Command lines:**
 
-- `npm install` <br /> Install all the necessary packages for running and developing the project.
-- `npm run start`<br /> For running the project.
+-   `npm install` <br /> Install all the necessary packages for running and developing the project.
+-   `npm run start`<br /> For running the project.
 
 ---
 
@@ -29,15 +29,15 @@
 
 ### The technologies used in this project include:
 
-- [x] _**ReactJS**_ : the project is built on the _ReactJS_ framework.
-- [x] _**styled-components**_ : the project's styling is implemented using _styled-components_.
-- [x] _**Mui v5**_ : the project has been built using _MUI v5_.
-- [x] _**ESLINT**_ : the project adheres to the _ESLint_ guidelines and follows the best practices recommended by _airbnb_.
-- [x] _**Webpack**_ : the app is based on _Webpack_, providing extensive customization capabilities to tailor the application according to specific needs.
+-   [x] _**ReactJS**_ : the project is built on the _ReactJS_ framework.
+-   [x] _**styled-components**_ : the project's styling is implemented using _styled-components_.
+-   [x] _**Mui v5**_ : the project has been built using _MUI v5_.
+-   [x] _**ESLINT**_ : the project adheres to the _ESLint_ guidelines and follows the best practices recommended by _airbnb_.
+-   [x] _**Webpack**_ : the app is based on _Webpack_, providing extensive customization capabilities to tailor the application according to specific needs.
 
 ### Additional technologies used as development tools include:
 
-- [x] **Responsiveness** : the application is designed to be responsive and adapts to screens of all sizes. It achieves this by utilizing the responsive properties provided by MUI breakpoints for its components.
+-   [x] **Responsiveness** : the application is designed to be responsive and adapts to screens of all sizes. It achieves this by utilizing the responsive properties provided by MUI breakpoints for its components.
 
 ---
 
@@ -45,5 +45,5 @@
 
 :octocat: **Afek Sakaju**
 
-- LinkedIn: [@afeksa](https://www.linkedin.com/in/afeksa/)
-- GitHub: [@afekTheMiniLearner](https://github.com/afekTheMiniLearner)
+-   LinkedIn: [@afeksa](https://www.linkedin.com/in/afeksa/)
+-   GitHub: [@Afek-Sakaju](https://github.com/Afek-Sakaju)
