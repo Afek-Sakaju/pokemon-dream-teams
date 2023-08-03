@@ -42,6 +42,7 @@ Select.propTypes = {
   ),
   size: PropTypes.string,
 };
+
 Select.defaultProps = {
   currentValue: undefined,
   onChange: undefined,
