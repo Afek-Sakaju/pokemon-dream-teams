@@ -23,7 +23,7 @@
 
 ### **Get a glimpse of the app:**
 
-https://github.com/Afek-Sakaju/pokemon-dream-teams/assets/100536372/875f6758-3390-4f16-8ea4-9f7b59f89abf
+https://github.com/Afek-Sakaju/pokemon-dream-teams/assets/100536372/f4c7321b-496c-4972-bcdb-2f20dc0a1d6a
 
 ---
 
