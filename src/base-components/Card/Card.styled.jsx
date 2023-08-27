@@ -12,6 +12,7 @@ export const MuiCard = styled(Card)(({ theme }) => ({
     height: "310px",
     width: "370px",
     margin: "0 20px",
+    backgroundColor: "#f2f2f2",
 
     [theme.breakpoints.down("lg")]: {
         height: "260px",
