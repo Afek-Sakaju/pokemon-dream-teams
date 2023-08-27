@@ -36,7 +36,7 @@ export const MuiCard = styled(Card)(({ theme }) => ({
     },
 }));
 
-export const CardContent = styled(MuiCardContent)``;
+export const CardContent = styled(MuiCardContent)(({ theme }) => ({}));
 
 export const CardMedia = styled(MuiCardMedia)(({ theme }) => ({
     height: "150px",
@@ -56,13 +56,14 @@ export const CardMedia = styled(MuiCardMedia)(({ theme }) => ({
 export const CardActionArea = styled(MuiCardActionArea)``;
 
 export const TitleTypography = styled(MuiTypography)(({ theme }) => ({
-    fontSize: "1.2em",
+    fontSize: "1.3em",
+    margin: 0,
 
     [theme.breakpoints.down("md")]: {
-        fontSize: "1.1em",
+        fontSize: "1.2em",
     },
     [theme.breakpoints.down("sm")]: {
-        fontSize: "1em",
+        fontSize: "1.1em",
     },
 }));
 
@@ -79,9 +80,16 @@ export const ContentTypography = styled(MuiTypography)(({ theme }) => ({
 
 export const Grow = styled(MuiGrow)``;
 
-export const Box = styled(MuiBox)`
-    max-height: 63px;
-    height: 63px;
-    overflow-y: auto;
-    margin-top: 20px;
-`;
+export const Box = styled(MuiBox)(({ theme }) => ({
+    maxHeight: "63px",
+    height: "63px",
+    overflowY: "auto",
+    marginTop: "20px",
+
+    [theme.breakpoints.down("md")]: {
+        marginTop: "10px",
+    },
+    [theme.breakpoints.down("sm")]: {
+        marginTop: 0,
+    },
+}));
