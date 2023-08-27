@@ -4,7 +4,7 @@ import MuiCardContent from "@mui/material/CardContent";
 import MuiCardMedia from "@mui/material/CardMedia";
 import MuiCardActionArea from "@mui/material/CardActionArea";
 import MuiTypography from "@mui/material/Typography";
-import MuiGrow from "@mui/material/Grow";
+import MuiZoom from "@mui/material/Zoom";
 import MuiBox from "@mui/material/Box";
 
 export const MuiCard = styled(Card)(({ theme }) => ({
@@ -78,7 +78,7 @@ export const ContentTypography = styled(MuiTypography)(({ theme }) => ({
     },
 }));
 
-export const Grow = styled(MuiGrow)``;
+export const Zoom = styled(MuiZoom)``;
 
 export const Box = styled(MuiBox)(({ theme }) => ({
     maxHeight: "63px",
