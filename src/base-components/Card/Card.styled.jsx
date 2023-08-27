@@ -36,7 +36,7 @@ export const MuiCard = styled(Card)(({ theme }) => ({
     },
 }));
 
-export const CardContent = styled(MuiCardContent)(({ theme }) => ({}));
+export const CardContent = styled(MuiCardContent)``;
 
 export const CardMedia = styled(MuiCardMedia)(({ theme }) => ({
     height: "150px",
