@@ -25,12 +25,12 @@ export const MuiCard = styled(Card)(({ theme }) => ({
         margin: "0 5px",
     },
     [theme.breakpoints.down("sm")]: {
-        height: "230px",
+        height: "210px",
         width: "240px",
         margin: 0,
     },
     [theme.breakpoints.down("xs")]: {
-        height: "210px",
+        height: "200px",
         width: "230px",
         margin: 0,
     },
@@ -87,9 +87,9 @@ export const Box = styled(MuiBox)(({ theme }) => ({
     marginTop: "20px",
 
     [theme.breakpoints.down("md")]: {
-        marginTop: "10px",
+        marginTop: "15px",
     },
     [theme.breakpoints.down("sm")]: {
-        marginTop: 0,
+        marginTop: "10px",
     },
 }));
