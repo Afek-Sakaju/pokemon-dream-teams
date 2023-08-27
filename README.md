@@ -23,7 +23,7 @@
 
 ### **Get a glimpse of the app:**
 
-![Example](./readme-resources/pok.gif)
+![Example](./readme-resources/preview.gif)
 
 ---
 
