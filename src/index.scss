@@ -1,25 +1,26 @@
 @font-face {
-  font-family: Pokemon;
-  src: url("./assets/Pokemon-Hollow.ttf");
+    font-family: Pokemon;
+    src: url("./assets/Pokemon-Hollow.ttf");
 }
 
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font: normal 30px "Pokemon", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: normal 30px "Pokemon", sans-serif;
 
-  margin: 0 auto;
-  height: 100vh;
-  width: 100vw;
-  background: linear-gradient(
-    180deg,
-    #ff0000 0%,
-    #ff0000 47.5%,
-    #000000 47.5%,
-    #000000 52.5%,
-    #ffffff 52.5%,
-    #ffffff 100%
-  );
-  overflow-x: hidden;
+    margin: 0 auto;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(
+        180deg,
+        #ff0000 0%,
+        #ff0000 47.5%,
+        #000000 47.5%,
+        #000000 52.5%,
+        #ffffff 52.5%,
+        #ffffff 100%
+    );
+    background-attachment: fixed;
+    overflow-x: hidden;
 }
