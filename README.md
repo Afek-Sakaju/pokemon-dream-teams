@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This project offers a comprehensive collection of successful team ideas for Pokemon games, featuring powerful combinations of Pokemon from various types to maximize the chances of successfully completing the game.<br />
+### This project offers a comprehensive collections of successful team ideas for Pokemon games, powerful combinations of Pokemons from various types to maximize the chances of successfully completing the game.<br />
 
 <img src="./readme-resources/pikachu.png" width=60px height=60px align="right">
 
