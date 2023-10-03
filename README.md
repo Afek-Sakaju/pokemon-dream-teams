@@ -6,8 +6,6 @@
 
 <img src="./readme-resources/pikachu.png" width=60px height=60px align="right">
 
-### This project offers diverse teams of Pokemon for specific games, and also allows you to toggle between basic and advanced pokemon data type by clicking on the Pokemon cards.
-
 <img src="./readme-resources/pokeball.png" width=120px height=120px align="right">
 
 ---
