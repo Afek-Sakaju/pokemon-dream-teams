@@ -1,4 +1,4 @@
-# Pokemon-Dream-Teams
+# Pokemon Dream Teams
 
 ### This project offers a comprehensive collections of successful team ideas for Pokemon games, powerful combinations of Pokemons from various types to maximize the chances of successfully completing the game.<br />
 
