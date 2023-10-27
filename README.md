@@ -26,7 +26,7 @@ https://github.com/Afek-Sakaju/pokemon-dream-teams/assets/100536372/21767e0a-277
 ### The technologies used in this project include:
 
 -   [x] _**ReactJS**_ : the project is built on the _ReactJS_ framework.
--   [x] _**styled-components**_ : the project's styling is implemented using _styled-components_.
+-   [x] _**Styled-Components**_ : the project's styling is implemented using _styled-components_.
 -   [x] _**Mui v5**_ : the project has been built using _MUI v5_.
 -   [x] _**ESLINT**_ : the project adheres to the _ESLint_ guidelines and follows the best practices recommended by _airbnb_.
 -   [x] _**Webpack**_ : the app is based on _Webpack_, providing extensive customization capabilities to tailor the application according to specific needs.
