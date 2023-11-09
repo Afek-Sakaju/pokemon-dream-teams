@@ -1,13 +1,15 @@
 {
     "name": "pokemon-dream-teams",
-    "description": "The app shows favorite pokemon teams and their data, each team relate to specific game",
+    "description": "This app provides successful team ideas for Pokemon games - powerful combinations of diverse Pokemon types for a higher chance of game completion.",
     "author": "afek-sakaju",
     "homepage": "https://github.com/Afek-Sakaju/pokemon-dream-teams",
     "keywords": [
         "pokemon",
         "data",
         "favorite pokemons",
-        "pokemon game"
+        "pokemon game",
+				"react",
+				"Mui v5"
     ],
     "version": "1.0.0",
     "private": true,
